@@ -1,2 +1,0 @@
-# sgcoreui
-Created with CodeSandbox
